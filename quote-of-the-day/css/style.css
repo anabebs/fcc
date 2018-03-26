@@ -1,0 +1,44 @@
+body { 
+ font-family: 'Londrina Solid', cursive;
+  background: url(https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e4bbb31a47384880bb5d5c292e4b401d&auto=format&fit=crop&w=1050&q=80) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-top: 50px;
+}
+
+p{
+ 
+  font-size: 2.0em;
+  margin-top: 10px;
+  text-align: center;
+  margin-left:150px;
+  margin-right:150px;
+  
+ 
+  color: black;
+  
+}
+
+#author {text-align:center;}
+.row{
+  
+  margin-top:200px;
+  
+}
+
+.quoteContainer{
+
+}
+
+h1{
+  font-size: 3.5em;
+  
+}
+
+ul{
+
+}
+
+
